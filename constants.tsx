@@ -18,11 +18,11 @@ export const NAVIGATION_LINKS = [
 ];
 
 export const STORIES = [
-  { id: '1', username: '@lily_vlogs', thumbnail: 'https://picsum.photos/seed/girl1/400/700', tagline: 'POV: Autumn feels sweeter with Uni' },
-  { id: '2', username: '@jade_mindset', thumbnail: 'https://picsum.photos/seed/girl2/400/700', tagline: 'My AI Bestie Calming My Doubts ✨' },
-  { id: '3', username: '@sara_tech', thumbnail: 'https://picsum.photos/seed/girl3/400/700', tagline: 'Uni help me pick my outfit!' },
-  { id: '4', username: '@mia_lifestyle', thumbnail: 'https://picsum.photos/seed/girl4/400/700', tagline: 'Letting Uni plan my day' },
-  { id: '5', username: '@cloe_unboxed', thumbnail: 'https://picsum.photos/seed/girl5/400/700', tagline: 'The cuttest package ever!' },
+  { id: '1', username: '@lily_vlogs', thumbnail: '/kol1.png', tagline: 'POV: Autumn feels sweeter with Uni' },
+  { id: '2', username: '@jade_mindset', thumbnail: '/kol2.png', tagline: 'My AI Bestie Calming My Doubts ✨' },
+  { id: '3', username: '@sara_tech', thumbnail: '/kol3.png', tagline: 'Uni help me pick my outfit!' },
+  { id: '4', username: '@mia_lifestyle', thumbnail: '/kol4.png', tagline: 'Letting Uni plan my day' },
+  { id: '5', username: '@cloe_unboxed', thumbnail: '/kol5.png', tagline: 'The cuttest package ever!' },
 ];
 
 export const TRUST_CARDS = [
