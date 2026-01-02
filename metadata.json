@@ -1,0 +1,8 @@
+{
+  "name": "Uni AI - Your Emerald Companion",
+  "description": "A high-end e-commerce landing page for an AI-powered unicorn plush, featuring a minimalist jade green and pink aesthetic designed for a modern female audience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
